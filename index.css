@@ -12,6 +12,7 @@ margin: 0;
  }
  section{
      display: flex;
+     margin-bottom: 100px;
  }
  .half-width{
      width: 50%;
@@ -32,4 +33,9 @@ margin: 0;
  .top-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+ }
+ .dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
  }
